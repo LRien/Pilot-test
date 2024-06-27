@@ -1,0 +1,8 @@
+username: Leon
+password: L
+first_name: Leonardo Enricho
+middle_initial: A.
+last_name: Quadra
+birthday: 03/23/2003
+address: QC
+contact_info: 09458472983
